@@ -10,3 +10,10 @@ Fork it, play with it and improve it!
 
 This edit was made by Jhoupps
 
+_okay, I think I have some formatting now_
+
+I need to figure out how to open the preview pane that Mr. Prof had earlier
+
+*What does an asteric do?*
+
+#hastagswag 
