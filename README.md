@@ -16,4 +16,9 @@ I need to figure out how to open the preview pane that Mr. Prof had earlier
 
 *What does an asteric do?*
 
+
 #hastagswag 
+
+*I think I know what I did wrong*
+_hastag doesn't do anything_
+did vi this time, hopefully those are asterisked 
